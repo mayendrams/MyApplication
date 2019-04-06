@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="mulai">Mulai</string>
+    <string name="mengontrol_hp_anak_anda">Mengontrol HP Anak Anda</string>
+    <string name="paus">Paus</string>
+    <string name="monitory_membantu_anda">Monitory Membantu Anda</string>
+    <string name="ketikkan_kode_keluarga_yang_ayah_bunda">Ketikkan kode keluarga yang Ayah Bunda</string>
+    <string name="miliki_disini">miliki disini</string>
+
+</resources>
